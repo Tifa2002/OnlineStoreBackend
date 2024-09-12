@@ -1,4 +1,10 @@
-﻿namespace OnlineStore.API.Controllers
+﻿using Microsoft.AspNetCore.Identity;
+using MimeKit;
+using OnlineStore.Domain.Utilities;
+using OnlineStore.Service.Helper;
+using System.Web;
+
+namespace OnlineStore.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -7,26 +13,76 @@
         private readonly UserManager<User> _UserManager;
         private readonly IConfiguration _Configuration;
         private readonly IMapper _Mapper;
-        public AccountController(UserManager<User> userManager, IConfiguration configuration, IMapper mapper)
+        private readonly ISendEmail sendEmailService;
+
+        public AccountController(UserManager<User> userManager
+            ,IConfiguration configuration, IMapper mapper
+            ,ISendEmail sendEmailService)
         {
             _UserManager = userManager;
             _Configuration = configuration;
             _Mapper = mapper;
+            this.sendEmailService = sendEmailService;
         }
 
         [HttpPost("Register")]
-        public async Task<IActionResult> Regsiter(RegisterUserDTO registerUserDTO)
+        public async Task<ActionResult<GeneralResponse<string>>> Register(RegisterUserDTO user)
         {
-            User user = new User();
-            _Mapper.Map<RegisterUserDTO>(user);
+            GeneralResponse<string> Response = new GeneralResponse<string>(false, "User Is Already Exsist!");
+            
 
-            var Created = await _UserManager.CreateAsync(user, registerUserDTO.Password);
-            if (Created.Succeeded)
+            var User = await _UserManager.FindByEmailAsync(user.Email);
+            if (User is not null)
+                return Response;
+
+            User = await _UserManager.FindByNameAsync(user.Name);
+            if (User is not null)
+                return Response;
+            User = new User()
             {
-                return Ok(registerUserDTO);
+                UserName = user.Name,
+                Email = user.Email,
+                PhoneNumber = user.PhoneNumber
+            };
+            var Result = await _UserManager.CreateAsync(User, user.Password);
+            if(Result.Succeeded)
+            {
+                Response.Success = true;
+                Response.Data = "Check Email For Confirmation";
+                Response.Message = null;
+                var token = await _UserManager.GenerateEmailConfirmationTokenAsync(User);
+                var confirmationLink = $"{_Configuration["BaseURL"]}/api/Account/ConfirmEmail?Email={User.Email}&token={token}";
+                Email email = new Email()
+                {
+                    To = User.Email,
+                    Subject = "Confirm your email",
+                    Body = $"Please confirm your account by clicking this link: <a href='{confirmationLink}'>Confirm Email</a>"
+            };
+                await this.sendEmailService.SendEmailAsync(email);
             }
-            return BadRequest(registerUserDTO);
+           
+            return Response;
         }
+
+        [HttpGet("ConfirmEmail")]
+        public async Task<ActionResult<GeneralResponse<string>>> ConfirmEmail(string email , string token)
+        {
+            var Response =new  GeneralResponse<string>(false, "incorrect Email");
+            var user = await _UserManager.FindByEmailAsync(email);
+            if(user is not null)
+            {
+                var result = await _UserManager.ConfirmEmailAsync(user, token);
+                if(result.Succeeded)
+                {
+                    Response.Success = true;
+                    Response.Message = null;
+                    Response.Data = "Email Confirmed Successfuly!";
+                };
+                return Response;
+            }
+            return Response;
+        }
+
 
 
         [HttpPost("Login")]

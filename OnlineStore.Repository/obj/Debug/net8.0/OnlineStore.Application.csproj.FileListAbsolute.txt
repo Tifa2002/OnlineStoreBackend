@@ -15,3 +15,20 @@ D:\.Net\ITI Eyad .NET R3\API\Project\OnlineStoreBackend\OnlineStore.Repository\o
 D:\.Net\ITI Eyad .NET R3\API\Project\OnlineStoreBackend\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Application.pdb
 D:\.Net\ITI Eyad .NET R3\API\Project\OnlineStoreBackend\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Application.genruntimeconfig.cache
 D:\.Net\ITI Eyad .NET R3\API\Project\OnlineStoreBackend\OnlineStore.Repository\obj\Debug\net8.0\ref\OnlineStore.Application.dll
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Application.deps.json
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Application.runtimeconfig.json
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Application.dll
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Application.pdb
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Domain.dll
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Domain.pdb
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Application.csproj.AssemblyReference.cache
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Application.AssemblyInfoInputs.cache
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Application.AssemblyInfo.cs
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Application.csproj.CoreCompileInputs.cache
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Application.csproj.CopyComplete
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Application.dll
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\refint\OnlineStore.Application.dll
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Application.pdb
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Application.genruntimeconfig.cache
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\ref\OnlineStore.Application.dll

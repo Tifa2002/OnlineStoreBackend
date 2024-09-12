@@ -1,0 +1,17 @@
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Infrastrucutre.deps.json
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Infrastrucutre.runtimeconfig.json
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Infrastrucutre.dll
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Infrastrucutre.pdb
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Domain.dll
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Domain.pdb
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.csproj.AssemblyReference.cache
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.AssemblyInfoInputs.cache
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.AssemblyInfo.cs
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.csproj.CoreCompileInputs.cache
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.csproj.CopyComplete
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.dll
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\refint\OnlineStore.Infrastrucutre.dll
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.pdb
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.genruntimeconfig.cache
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\ref\OnlineStore.Infrastrucutre.dll

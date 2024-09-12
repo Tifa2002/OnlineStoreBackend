@@ -10,3 +10,15 @@ D:\.Net\ITI Eyad .NET R3\API\Project\OnlineStoreBackend\OnlineStore.Domain\obj\D
 D:\.Net\ITI Eyad .NET R3\API\Project\OnlineStoreBackend\OnlineStore.Domain\obj\Debug\net8.0\refint\OnlineStore.Domain.dll
 D:\.Net\ITI Eyad .NET R3\API\Project\OnlineStoreBackend\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.pdb
 D:\.Net\ITI Eyad .NET R3\API\Project\OnlineStoreBackend\OnlineStore.Domain\obj\Debug\net8.0\ref\OnlineStore.Domain.dll
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Domain\bin\Debug\net8.0\OnlineStore.Domain.deps.json
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Domain\bin\Debug\net8.0\OnlineStore.Domain.dll
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Domain\bin\Debug\net8.0\OnlineStore.Domain.pdb
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.csproj.AssemblyReference.cache
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.AssemblyInfoInputs.cache
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.AssemblyInfo.cs
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.csproj.CoreCompileInputs.cache
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.dll
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Domain\obj\Debug\net8.0\refint\OnlineStore.Domain.dll
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.pdb
+G:\ITI\Final Projects\API\Eyad\OnlineStore.Domain\obj\Debug\net8.0\ref\OnlineStore.Domain.dll

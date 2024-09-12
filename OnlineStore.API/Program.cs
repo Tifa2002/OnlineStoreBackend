@@ -1,4 +1,6 @@
 using Microsoft.OpenApi.Models;
+using OnlineStore.Application.MailSendServices;
+using OnlineStore.Infrastructure.MailSendServices;
 using OnlineStore.Infrastructure.Mappign;
 
 namespace OnlineStore.API
@@ -47,9 +49,10 @@ namespace OnlineStore.API
             // Db Config
             builder.Services
                 .AddIdentity<User, IdentityRole>()
-                .AddEntityFrameworkStores<OnlineStoreDbContext>();
-                //.AddDefaultTokenProviders();
+                .AddEntityFrameworkStores<OnlineStoreDbContext>()
+                .AddDefaultTokenProviders();
 
+          
             builder.Services.AddDbContext<OnlineStoreDbContext>
                 (
                     option => option.UseSqlServer(builder.Configuration.GetConnectionString("Dev"))
@@ -60,8 +63,11 @@ namespace OnlineStore.API
           
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
-           // builder.Services.AddSwaggerGen();
+            // builder.Services.AddSwaggerGen();
 
+            //EmailSenderAddConfiguration
+            builder.Services.Configure<EmailBaseConfiguration>(builder.Configuration.GetSection("MailSetting"));
+            builder.Services.AddTransient<ISendEmail, EmailSender>();
 
             #region Swagger REgion
             builder.Services.AddSwaggerGen(swagger =>
