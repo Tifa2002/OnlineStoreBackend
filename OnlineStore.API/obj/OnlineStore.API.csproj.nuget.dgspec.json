@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.API\\OnlineStore.API.csproj": {}
+    "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.API\\OnlineStore.API.csproj": {}
   },
   "projects": {
-    "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.API\\OnlineStore.API.csproj": {
+    "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.API\\OnlineStore.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.API\\OnlineStore.API.csproj",
+        "projectUniqueName": "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.API\\OnlineStore.API.csproj",
         "projectName": "OnlineStore.API",
-        "projectPath": "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.API\\OnlineStore.API.csproj",
-        "packagesPath": "C:\\Users\\Eyadm\\.nuget\\packages\\",
-        "outputPath": "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.API\\obj\\",
+        "projectPath": "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.API\\OnlineStore.API.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Eyadm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Service\\OnlineStore.Infrastructure.csproj": {
-                "projectPath": "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Service\\OnlineStore.Infrastructure.csproj"
+              "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Service\\OnlineStore.Application.csproj": {
+                "projectPath": "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Service\\OnlineStore.Application.csproj"
               }
             }
           }
@@ -43,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -96,25 +86,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Domain\\OnlineStore.Domain.csproj": {
+    "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Domain\\OnlineStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Domain\\OnlineStore.Domain.csproj",
+        "projectUniqueName": "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Domain\\OnlineStore.Domain.csproj",
         "projectName": "OnlineStore.Domain",
-        "projectPath": "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Domain\\OnlineStore.Domain.csproj",
-        "packagesPath": "C:\\Users\\Eyadm\\.nuget\\packages\\",
-        "outputPath": "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Domain\\obj\\",
+        "projectPath": "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Domain\\OnlineStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Eyadm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -122,7 +108,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -135,11 +120,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -167,25 +147,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Repository\\OnlineStore.Application.csproj": {
+    "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Repository\\OnlineStore.Infrastrucutre.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Repository\\OnlineStore.Application.csproj",
-        "projectName": "OnlineStore.Application",
-        "projectPath": "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Repository\\OnlineStore.Application.csproj",
-        "packagesPath": "C:\\Users\\Eyadm\\.nuget\\packages\\",
-        "outputPath": "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Repository\\obj\\",
+        "projectUniqueName": "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Repository\\OnlineStore.Infrastrucutre.csproj",
+        "projectName": "OnlineStore.Infrastrucutre",
+        "projectPath": "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Repository\\OnlineStore.Infrastrucutre.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Eyadm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -193,15 +169,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Domain\\OnlineStore.Domain.csproj": {
-                "projectPath": "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Domain\\OnlineStore.Domain.csproj"
+              "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Domain\\OnlineStore.Domain.csproj": {
+                "projectPath": "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Domain\\OnlineStore.Domain.csproj"
               }
             }
           }
@@ -210,11 +185,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -256,25 +226,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Service\\OnlineStore.Infrastructure.csproj": {
+    "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Service\\OnlineStore.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Service\\OnlineStore.Infrastructure.csproj",
-        "projectName": "OnlineStore.Infrastructure",
-        "projectPath": "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Service\\OnlineStore.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Eyadm\\.nuget\\packages\\",
-        "outputPath": "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Service\\obj\\",
+        "projectUniqueName": "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Service\\OnlineStore.Application.csproj",
+        "projectName": "OnlineStore.Application",
+        "projectPath": "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Service\\OnlineStore.Application.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Service\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Eyadm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -282,15 +248,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Repository\\OnlineStore.Application.csproj": {
-                "projectPath": "D:\\.Net\\ITI Eyad .NET R3\\API\\Project\\OnlineStoreBackend\\OnlineStore.Repository\\OnlineStore.Application.csproj"
+              "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Repository\\OnlineStore.Infrastrucutre.csproj": {
+                "projectPath": "G:\\ITI\\Final Projects\\API\\Eyad\\OnlineStore.Repository\\OnlineStore.Infrastrucutre.csproj"
               }
             }
           }
@@ -299,11 +264,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -313,6 +273,14 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.7.1.1, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.7.1, )"
             }
           },
           "imports": [
@@ -331,7 +299,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

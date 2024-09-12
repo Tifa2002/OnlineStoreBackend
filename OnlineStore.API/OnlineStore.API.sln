@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.API", "OnlineSt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.Domain", "..\OnlineStore.Domain\OnlineStore.Domain.csproj", "{4748E4D7-22CA-4492-B130-7207BC53A7B3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.Application", "..\OnlineStore.Repository\OnlineStore.Application.csproj", "{D25D6D7D-8922-42ED-A4A7-C42A3C84D8D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.Infrastrucutre", "..\OnlineStore.Repository\OnlineStore.Infrastrucutre.csproj", "{D25D6D7D-8922-42ED-A4A7-C42A3C84D8D0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.Infrastructure", "..\OnlineStore.Service\OnlineStore.Infrastructure.csproj", "{2BC87333-1249-4B2E-87F6-0A68A7D3A8E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.Application", "..\OnlineStore.Service\OnlineStore.Application.csproj", "{2BC87333-1249-4B2E-87F6-0A68A7D3A8E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
