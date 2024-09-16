@@ -22,7 +22,5 @@
 
         public ICollection<ProductVariants>? ProductVariants { get; set; }
 
-
-
     }
 }

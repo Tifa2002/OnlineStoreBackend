@@ -15,3 +15,21 @@ G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\refint\On
 G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.pdb
 G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.genruntimeconfig.cache
 G:\ITI\Final Projects\API\Eyad\OnlineStore.Repository\obj\Debug\net8.0\ref\OnlineStore.Infrastrucutre.dll
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Infrastrucutre.deps.json
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Infrastrucutre.runtimeconfig.json
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Infrastrucutre.dll
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Infrastrucutre.pdb
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Domain.dll
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\bin\Debug\net8.0\OnlineStore.Domain.pdb
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.csproj.AssemblyReference.cache
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.AssemblyInfoInputs.cache
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.AssemblyInfo.cs
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.sourcelink.json
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\obj\Debug\net8.0\OnlineSt.07416B5B.Up2Date
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.dll
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\obj\Debug\net8.0\refint\OnlineStore.Infrastrucutre.dll
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.pdb
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\obj\Debug\net8.0\OnlineStore.Infrastrucutre.genruntimeconfig.cache
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Repository\obj\Debug\net8.0\ref\OnlineStore.Infrastrucutre.dll

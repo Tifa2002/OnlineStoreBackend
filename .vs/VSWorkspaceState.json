@@ -1,10 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\OnlineStore.API",
-    "\\OnlineStore.API\\Controllers",
-    "\\OnlineStore.Service",
-    "\\OnlineStore.Service\\MailSendServices"
+    ""
   ],
   "PreviewInSolutionExplorer": false
 }

@@ -15,3 +15,21 @@ G:\ITI\Final Projects\API\Eyad\OnlineStore.Service\obj\Debug\net8.0\OnlineStore.
 G:\ITI\Final Projects\API\Eyad\OnlineStore.Service\obj\Debug\net8.0\refint\OnlineStore.Application.dll
 G:\ITI\Final Projects\API\Eyad\OnlineStore.Service\obj\Debug\net8.0\OnlineStore.Application.pdb
 G:\ITI\Final Projects\API\Eyad\OnlineStore.Service\obj\Debug\net8.0\ref\OnlineStore.Application.dll
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\bin\Debug\net8.0\OnlineStore.Application.deps.json
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\bin\Debug\net8.0\OnlineStore.Application.dll
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\bin\Debug\net8.0\OnlineStore.Application.pdb
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\bin\Debug\net8.0\OnlineStore.Domain.dll
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\bin\Debug\net8.0\OnlineStore.Infrastrucutre.dll
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\bin\Debug\net8.0\OnlineStore.Infrastrucutre.pdb
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\bin\Debug\net8.0\OnlineStore.Domain.pdb
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\obj\Debug\net8.0\OnlineStore.Application.csproj.AssemblyReference.cache
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\obj\Debug\net8.0\OnlineStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\obj\Debug\net8.0\OnlineStore.Application.AssemblyInfoInputs.cache
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\obj\Debug\net8.0\OnlineStore.Application.AssemblyInfo.cs
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\obj\Debug\net8.0\OnlineStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\obj\Debug\net8.0\OnlineStore.Application.sourcelink.json
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\obj\Debug\net8.0\OnlineSt.92656711.Up2Date
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\obj\Debug\net8.0\OnlineStore.Application.dll
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\obj\Debug\net8.0\refint\OnlineStore.Application.dll
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\obj\Debug\net8.0\OnlineStore.Application.pdb
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Service\obj\Debug\net8.0\ref\OnlineStore.Application.dll

@@ -22,3 +22,16 @@ G:\ITI\Final Projects\API\Eyad\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.D
 G:\ITI\Final Projects\API\Eyad\OnlineStore.Domain\obj\Debug\net8.0\refint\OnlineStore.Domain.dll
 G:\ITI\Final Projects\API\Eyad\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.pdb
 G:\ITI\Final Projects\API\Eyad\OnlineStore.Domain\obj\Debug\net8.0\ref\OnlineStore.Domain.dll
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Domain\bin\Debug\net8.0\OnlineStore.Domain.deps.json
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Domain\bin\Debug\net8.0\OnlineStore.Domain.dll
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Domain\bin\Debug\net8.0\OnlineStore.Domain.pdb
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.csproj.AssemblyReference.cache
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.AssemblyInfoInputs.cache
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.AssemblyInfo.cs
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.sourcelink.json
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.dll
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Domain\obj\Debug\net8.0\refint\OnlineStore.Domain.dll
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Domain\obj\Debug\net8.0\OnlineStore.Domain.pdb
+C:\Users\Mostafa Hendawy\Documents\Final Project ITI\OnlineStore.Domain\obj\Debug\net8.0\ref\OnlineStore.Domain.dll
